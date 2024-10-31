@@ -70,7 +70,7 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 Thanks to the following people who have contributed to this project:
 
-* [@tinolaomahei](https://github.com/tinolaoamhei) 📖
+* [@tinolaomahei](https://github.com/tinolaomahei) 📖
 
 ## Contact
 
