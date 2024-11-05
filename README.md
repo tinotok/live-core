@@ -37,10 +37,10 @@ To use the Stream Countdown Timer, follow these steps:
 3. Run the following command:
 
    ```
-   node countdown.js
+   node index.js
    ```
 
-   (Replace `countdown.js` with the actual name of your script file if different)
+   (Replace `index.js` with the actual name of your script file if different)
 
 4. The countdown will start and update every second until it reaches 8 PM.
 
